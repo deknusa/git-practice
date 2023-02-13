@@ -2,4 +2,4 @@ hands-on git at unud
 mulai jam 2 siang
 perubahan branch
 
--- konflik1
+-- konflik_baru
